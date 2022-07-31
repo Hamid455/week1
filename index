@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Untitled-1.css">
+</head>
+<body>
+    <a href="https://www.google.com/?client=safari&channel=mac_bm"><h1>Heading 1</h1> </a>
+   <strong> <P>hello<em> hoesdfsfsdfsgdgsdgfsdfgagrtgersgferfetersf4r <br></em>ok <hr>gud</P></strong>
+   
+   <img src="pp.jpeg"  width="500" height="400"> 
+   <img src="xiao.webp" width="500" height="400"> 
+   <img src="todoroki.jpg"  width="500" height="400"> 
+   <img src="https://images.pexels.com/photos/12604653/pexels-photo-12604653.jpeg" width="500" height="400">
+   
+   <table border="1px" width="25%">
+       <tr>  
+           
+           <th>Name</th>
+           <th>Last Name</th> 
+        </tr>
+        
+        <tr>
+            
+            <td>Hamid</td>
+            <td>Zahid</td>
+</tr>
+
+            <tr>        
+            <td>Hamid</td>
+            <td>Zahid</td>      
+            </tr>
+            <tr>
+            <td>Hamid</td>
+            <td>Zahid</td>
+         </tr>   
+    
+        
+    </table>
+    
+    <button class="btn">Login</button>
+    
+    
+
+
+
+
+</body>
+
+</html>
